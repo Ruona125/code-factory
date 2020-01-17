@@ -1,5 +1,0 @@
-
-    1 Zoom
-        1.1 Page Navigation
-        1.2 Launching...
-        
